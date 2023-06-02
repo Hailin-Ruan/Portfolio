@@ -26,3 +26,5 @@ This is my portfolio webpage. A well-crafted portfolio is an essential tool for 
   - Author: Kolade Chris
 
 - [Wix.com](https://www.wix.com/)
+
+-[Font Awesome](https://fontawesome.com/)
