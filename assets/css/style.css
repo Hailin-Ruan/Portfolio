@@ -196,6 +196,7 @@ a:hover::after {
     text-align: center;
     font-size: 20px;
     transition: height 0.5s;
+    color: black;
 }
 
 .layer h3 {
